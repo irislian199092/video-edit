@@ -1,0 +1,20 @@
+{
+  "domain":"http://localhost",
+  "port":3000,
+  "cachify":false,
+  "assets":{
+    "/vendor/bootstrap.min.css":[
+      "/bower_components/bootstrap/dist/css/bootstrap.min.css"
+    ],
+    "/vendor/library.min.js":[
+      "/bower_components/jquery/dist/jquery",
+      "/bower_components/angular/angular.min.js",
+      "/bower_components/angular-route/angular-route.min.js",
+      "/bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js",
+      "/bower_components/remarkable-bootstrap-notify/bootstrap-notify.min.js"
+    ],
+    "/js/main.min.js":[
+      "/js/main.js"
+    ]
+  }
+}
